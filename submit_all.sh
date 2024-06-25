@@ -1,0 +1,2 @@
+sbatch --exclude=bwmpc053,bwmpc094 --partition=mpc --account=RB230064 --cpus-per-task=4 --mem-per-cpu=4G --output /data/RB230064/ejungwoo/analysis202406/submit/job_output_0.out /data/RB230064/ejungwoo/analysis202406/submit/submit_reco_2024_lowgain.sh 1046 0 10
+sbatch --exclude=bwmpc053,bwmpc094 --partition=mpc --account=RB230064 --cpus-per-task=4 --mem-per-cpu=4G --output /data/RB230064/ejungwoo/analysis202406/submit/job_output_1.out /data/RB230064/ejungwoo/analysis202406/submit/submit_reco_2024_lowgain.sh 1046 1 10
