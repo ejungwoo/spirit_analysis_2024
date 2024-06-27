@@ -2,7 +2,11 @@ void run_eve
 (
   TString name = "run1046", 
   TString pathToData = "./data/",
-  TString inputName = "./data/lgrun1046_s00.reco.2024.root",
+  //TString inputName = "./data/lgrun1046_s00.reco.2024.root",
+  //TString inputName = "data/lgrun1046_s02.split_test.root",
+  //TString inputName = "./data/lgrun1045_s00.lowgain.root",
+  //TString inputName = "/data/RB230064/ejungwoo/production/recoLG_run1047/spirit24_1047.08.recoLG.root",
+  TString inputName = "/data/RB230064/ejungwoo/production/recoLG_run1045/spirit24_1045.00.recoLG.root",
   //TString inputName = "data/run1046_s00.reco.2024.root",
   TString parName = "ST.parameters.Commissioning_20240618.par",
 

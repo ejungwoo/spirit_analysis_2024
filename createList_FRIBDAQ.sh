@@ -21,6 +21,8 @@ printf -v RUN "%04g" $RUN
 OUTPUT=list_run$RUN\.txt
 > $PWD/$OUTPUT
 
+rm -f $OUTPUT
+
 echo "== Creating list as $OUTPUT. Please be patient."
 
 for COBO in $(seq -f "%02g" 0 11);

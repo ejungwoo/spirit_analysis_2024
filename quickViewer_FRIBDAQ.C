@@ -58,7 +58,7 @@ void save()
     fCvs -> SaveAs(name);
 }
 
-void quickViewer_FRIBDAQ(Int_t runNo = 1046)
+void quickViewer_FRIBDAQ(Int_t runNo = 1013)
 {
   //if (!(gSystem -> Getenv("RUN"))) {
   //  cout << endl;

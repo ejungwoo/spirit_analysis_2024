@@ -1,0 +1,1045 @@
+bwmpc153
+System during compilation: Rocky Linux release 8.8 (Green Obsidian)
+                           x86_64
+System now               : Rocky Linux release 8.8 (Green Obsidian)
+                           x86_64
+
+Processing generateMetadata.C(1045)...
+== Creating list as list_run1045.txt. Please be patient.
+== Done! Enjoy analysis!
+[1;33m== [STCore] You set the decoder to analyze seperated data files.
+            Make sure to call this method right after the instance created![0m
+#Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-00.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-00.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-01.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-01.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-02.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-02.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-03.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-03.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-04.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-04.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-05.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-05.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-06.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-06.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-07.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-07.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-08.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-08.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-09.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-09.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-10.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-10.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-11.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-11.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-12.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-12.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-13.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-13.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-14.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-14.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-15.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-15.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-16.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-16.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-17.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-17.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-18.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-18.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-19.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-19.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-20.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-20.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-21.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-21.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-22.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-22.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-23.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-23.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-24.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-24.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-25.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-25.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-26.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-26.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-27.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-27.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-28.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-28.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-29.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-29.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-30.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-30.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-31.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-31.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-32.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-32.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-33.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-33.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-34.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-34.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-35.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-35.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-36.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-36.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-37.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-37.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-38.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-38.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-39.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-39.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-40.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-40.evt
+Cobo: 0; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-41.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo00/18Jun2024-060338-run-1045-41.evt
+#Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-00.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-00.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-01.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-01.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-02.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-02.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-03.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-03.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-04.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-04.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-05.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-05.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-06.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-06.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-07.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-07.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-08.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-08.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-09.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-09.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-10.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-10.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-11.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-11.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-12.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-12.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-13.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-13.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-14.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-14.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-15.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-15.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-16.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-16.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-17.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-17.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-18.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-18.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-19.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-19.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-20.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-20.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-21.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-21.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-22.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-22.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-23.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-23.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-24.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-24.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-25.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-25.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-26.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-26.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-27.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-27.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-28.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-28.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-29.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-29.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-30.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-30.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-31.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-31.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-32.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-32.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-33.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-33.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-34.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-34.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-35.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-35.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-36.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-36.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-37.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-37.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-38.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-38.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-39.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-39.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-40.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-40.evt
+Cobo: 1; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-41.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo01/18Jun2024-060338-run-1045-41.evt
+#Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-00.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-00.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-01.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-01.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-02.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-02.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-03.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-03.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-04.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-04.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-05.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-05.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-06.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-06.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-07.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-07.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-08.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-08.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-09.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-09.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-10.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-10.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-11.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-11.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-12.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-12.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-13.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-13.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-14.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-14.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-15.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-15.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-16.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-16.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-17.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-17.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-18.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-18.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-19.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-19.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-20.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-20.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-21.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-21.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-22.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-22.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-23.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-23.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-24.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-24.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-25.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-25.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-26.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-26.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-27.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-27.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-28.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-28.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-29.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-29.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-30.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-30.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-31.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-31.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-32.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-32.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-33.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-33.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-34.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-34.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-35.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-35.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-36.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-36.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-37.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-37.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-38.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-38.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-39.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-39.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-40.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-40.evt
+Cobo: 2; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-41.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo02/18Jun2024-060338-run-1045-41.evt
+#Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-00.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-00.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-01.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-01.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-02.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-02.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-03.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-03.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-04.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-04.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-05.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-05.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-06.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-06.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-07.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-07.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-08.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-08.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-09.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-09.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-10.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-10.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-11.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-11.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-12.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-12.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-13.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-13.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-14.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-14.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-15.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-15.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-16.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-16.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-17.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-17.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-18.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-18.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-19.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-19.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-20.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-20.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-21.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-21.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-22.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-22.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-23.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-23.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-24.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-24.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-25.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-25.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-26.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-26.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-27.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-27.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-28.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-28.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-29.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-29.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-30.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-30.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-31.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-31.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-32.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-32.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-33.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-33.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-34.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-34.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-35.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-35.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-36.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-36.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-37.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-37.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-38.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-38.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-39.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-39.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-40.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-40.evt
+Cobo: 3; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-41.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo03/18Jun2024-060338-run-1045-41.evt
+#Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-00.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-00.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-01.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-01.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-02.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-02.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-03.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-03.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-04.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-04.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-05.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-05.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-06.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-06.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-07.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-07.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-08.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-08.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-09.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-09.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-10.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-10.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-11.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-11.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-12.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-12.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-13.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-13.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-14.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-14.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-15.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-15.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-16.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-16.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-17.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-17.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-18.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-18.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-19.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-19.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-20.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-20.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-21.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-21.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-22.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-22.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-23.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-23.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-24.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-24.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-25.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-25.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-26.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-26.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-27.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-27.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-28.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-28.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-29.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-29.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-30.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-30.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-31.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-31.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-32.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-32.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-33.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-33.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-34.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-34.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-35.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-35.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-36.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-36.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-37.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-37.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-38.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-38.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-39.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-39.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-40.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-40.evt
+Cobo: 4; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-41.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo04/18Jun2024-060339-run-1045-41.evt
+#Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-00.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-00.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-01.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-01.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-02.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-02.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-03.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-03.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-04.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-04.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-05.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-05.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-06.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-06.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-07.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-07.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-08.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-08.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-09.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-09.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-10.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-10.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-11.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-11.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-12.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-12.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-13.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-13.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-14.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-14.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-15.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-15.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-16.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-16.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-17.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-17.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-18.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-18.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-19.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-19.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-20.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-20.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-21.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-21.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-22.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-22.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-23.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-23.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-24.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-24.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-25.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-25.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-26.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-26.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-27.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-27.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-28.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-28.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-29.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-29.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-30.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-30.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-31.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-31.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-32.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-32.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-33.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-33.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-34.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-34.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-35.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-35.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-36.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-36.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-37.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-37.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-38.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-38.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-39.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-39.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-40.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-40.evt
+Cobo: 5; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-41.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo05/18Jun2024-060339-run-1045-41.evt
+#Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-00.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-00.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-01.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-01.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-02.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-02.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-03.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-03.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-04.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-04.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-05.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-05.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-06.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-06.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-07.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-07.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-08.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-08.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-09.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-09.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-10.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-10.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-11.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-11.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-12.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-12.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-13.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-13.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-14.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-14.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-15.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-15.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-16.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-16.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-17.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-17.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-18.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-18.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-19.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-19.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-20.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-20.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-21.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-21.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-22.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-22.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-23.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-23.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-24.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-24.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-25.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-25.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-26.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-26.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-27.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-27.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-28.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-28.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-29.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-29.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-30.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-30.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-31.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-31.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-32.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-32.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-33.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-33.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-34.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-34.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-35.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-35.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-36.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-36.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-37.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-37.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-38.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-38.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-39.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-39.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-40.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-40.evt
+Cobo: 6; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-41.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo06/18Jun2024-060339-run-1045-41.evt
+#Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-00.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-00.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-01.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-01.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-02.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-02.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-03.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-03.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-04.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-04.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-05.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-05.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-06.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-06.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-07.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-07.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-08.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-08.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-09.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-09.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-10.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-10.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-11.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-11.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-12.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-12.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-13.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-13.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-14.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-14.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-15.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-15.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-16.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-16.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-17.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-17.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-18.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-18.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-19.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-19.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-20.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-20.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-21.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-21.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-22.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-22.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-23.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-23.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-24.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-24.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-25.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-25.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-26.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-26.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-27.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-27.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-28.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-28.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-29.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-29.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-30.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-30.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-31.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-31.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-32.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-32.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-33.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-33.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-34.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-34.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-35.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-35.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-36.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-36.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-37.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-37.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-38.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-38.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-39.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-39.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-40.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-40.evt
+Cobo: 7; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-41.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo07/18Jun2024-060339-run-1045-41.evt
+#Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-00.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-00.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-01.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-01.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-02.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-02.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-03.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-03.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-04.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-04.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-05.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-05.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-06.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-06.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-07.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-07.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-08.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-08.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-09.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-09.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-10.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-10.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-11.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-11.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-12.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-12.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-13.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-13.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-14.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-14.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-15.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-15.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-16.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-16.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-17.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-17.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-18.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-18.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-19.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-19.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-20.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-20.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-21.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-21.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-22.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-22.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-23.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-23.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-24.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-24.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-25.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-25.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-26.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-26.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-27.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-27.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-28.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-28.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-29.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-29.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-30.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-30.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-31.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-31.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-32.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-32.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-33.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-33.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-34.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-34.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-35.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-35.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-36.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-36.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-37.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-37.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-38.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-38.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-39.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-39.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-40.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-40.evt
+Cobo: 8; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-41.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo08/18Jun2024-060339-run-1045-41.evt
+#Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-00.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-00.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-01.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-01.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-02.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-02.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-03.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-03.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-04.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-04.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-05.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-05.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-06.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-06.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-07.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-07.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-08.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-08.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-09.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-09.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-10.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-10.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-11.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-11.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-12.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-12.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-13.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-13.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-14.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-14.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-15.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-15.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-16.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-16.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-17.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-17.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-18.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-18.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-19.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-19.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-20.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-20.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-21.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-21.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-22.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-22.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-23.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-23.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-24.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-24.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-25.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-25.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-26.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-26.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-27.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-27.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-28.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-28.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-29.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-29.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-30.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-30.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-31.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-31.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-32.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-32.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-33.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-33.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-34.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-34.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-35.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-35.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-36.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-36.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-37.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-37.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-38.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-38.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-39.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-39.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-40.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-40.evt
+Cobo: 9; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-41.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo09/18Jun2024-060339-run-1045-41.evt
+#Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-00.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-00.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-01.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-01.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-02.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-02.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-03.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-03.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-04.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-04.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-05.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-05.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-06.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-06.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-07.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-07.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-08.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-08.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-09.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-09.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-10.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-10.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-11.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-11.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-12.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-12.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-13.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-13.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-14.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-14.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-15.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-15.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-16.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-16.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-17.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-17.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-18.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-18.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-19.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-19.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-20.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-20.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-21.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-21.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-22.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-22.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-23.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-23.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-24.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-24.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-25.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-25.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-26.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-26.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-27.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-27.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-28.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-28.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-29.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-29.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-30.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-30.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-31.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-31.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-32.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-32.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-33.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-33.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-34.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-34.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-35.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-35.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-36.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-36.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-37.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-37.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-38.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-38.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-39.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-39.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-40.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-40.evt
+Cobo: 10; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-41.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo10/18Jun2024-060339-run-1045-41.evt
+#Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-00.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-00.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-01.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-01.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-02.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-02.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-03.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-03.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-04.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-04.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-05.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-05.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-06.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-06.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-07.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-07.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-08.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-08.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-09.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-09.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-10.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-10.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-11.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-11.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-12.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-12.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-13.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-13.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-14.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-14.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-15.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-15.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-16.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-16.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-17.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-17.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-18.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-18.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-19.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-19.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-20.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-20.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-21.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-21.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-22.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-22.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-23.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-23.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-24.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-24.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-25.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-25.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-26.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-26.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-27.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-27.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-28.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-28.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-29.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-29.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-30.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-30.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-31.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-31.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-32.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-32.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-33.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-33.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-34.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-34.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-35.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-35.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-36.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-36.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-37.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-37.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-38.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-38.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-39.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-39.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-40.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-40.evt
+Cobo: 11; dataFilePath: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-41.evt
+== [GETFileChecker] File exist: /data/RB230064/rawdata/fribdaq//cobo11/18Jun2024-060339-run-1045-41.evt
+== [GETDecoder] /data/RB230064/rawdata/fribdaq/cobo00/18Jun2024-060338-run-1045-00.evt is opened!
+== [GETDecoder] Frame Type: FRIBDAQ RingItems
+== [GETDecoder] /data/RB230064/rawdata/fribdaq/cobo01/18Jun2024-060338-run-1045-00.evt is opened!
+== [GETDecoder] Frame Type: FRIBDAQ RingItems
+== [GETDecoder] /data/RB230064/rawdata/fribdaq/cobo02/18Jun2024-060338-run-1045-00.evt is opened!
+== [GETDecoder] Frame Type: FRIBDAQ RingItems
+== [GETDecoder] /data/RB230064/rawdata/fribdaq/cobo03/18Jun2024-060338-run-1045-00.evt is opened!
+== [GETDecoder] Frame Type: FRIBDAQ RingItems
+== [GETDecoder] /data/RB230064/rawdata/fribdaq/cobo04/18Jun2024-060339-run-1045-00.evt is opened!
+== [GETDecoder] Frame Type: FRIBDAQ RingItems
+== [GETDecoder] /data/RB230064/rawdata/fribdaq/cobo05/18Jun2024-060339-run-1045-00.evt is opened!
+== [GETDecoder] Frame Type: FRIBDAQ RingItems
+== [GETDecoder] /data/RB230064/rawdata/fribdaq/cobo06/18Jun2024-060339-run-1045-00.evt is opened!
+== [GETDecoder] Frame Type: FRIBDAQ RingItems
+== [GETDecoder] /data/RB230064/rawdata/fribdaq/cobo07/18Jun2024-060339-run-1045-00.evt is opened!
+== [GETDecoder] Frame Type: FRIBDAQ RingItems
+== [GETDecoder] /data/RB230064/rawdata/fribdaq/cobo08/18Jun2024-060339-run-1045-00.evt is opened!
+== [GETDecoder] Frame Type: FRIBDAQ RingItems
+== [GETDecoder] /data/RB230064/rawdata/fribdaq/cobo09/18Jun2024-060339-run-1045-00.evt is opened!
+== [GETDecoder] Frame Type: FRIBDAQ RingItems
+== [GETDecoder] /data/RB230064/rawdata/fribdaq/cobo10/18Jun2024-060339-run-1045-00.evt is opened!
+== [GETDecoder] Frame Type: FRIBDAQ RingItems
+== [GETDecoder] /data/RB230064/rawdata/fribdaq/cobo11/18Jun2024-060339-run-1045-00.evt is opened!
+== [GETDecoder] Frame Type: FRIBDAQ RingItems
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** JOB 1635777 ON bwmpc153 CANCELLED AT 2024-06-26T14:42:27 ***

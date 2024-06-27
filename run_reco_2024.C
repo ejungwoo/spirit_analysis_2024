@@ -2,16 +2,16 @@
 
 void run_reco_2024
 (
-  Int_t fRunNo = 1046,
+  Int_t fRunNo = 1035,
   Int_t fSplitNo = 0,
-  Int_t fNumEventsInSplit = 1000,
+  Int_t fNumEventsInSplit = 1000000,
   TString fOutputPath = "./data/",
   TString fOutForm = "reco.2024",
-  Bool_t fUseMeta = kFALSE,
+  Bool_t fUseMeta = true,
   std::vector<Int_t> fSkipEventArray = {},
   TString fMCFile = "",
   TString fPathToData = "", 
-  TString fSupplePath = "",
+  TString fSupplePath = "/data/RB230064/ejungwoo/analysis202406/generateMetadata/",
   Bool_t fIsFRIBDAQ = true
 )
 {
@@ -172,6 +172,7 @@ cout << fRawDataList << endl;
       dataFileWithPath.ReadLine(metalistFile);
       dataFileWithPath = Form("%s/run_%04d/%s", fSupplePath.Data(), fRunNo, dataFileWithPath.Data());
       decoder -> SetMetaData(dataFileWithPath, iCobo);
+      cout << "=================== " << dataFileWithPath << endl;
     }
   }
 

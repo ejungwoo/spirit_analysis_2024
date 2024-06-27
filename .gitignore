@@ -2,9 +2,17 @@ zzz
 log
 data
 submit
+figure
 figures
 rawdata
+metadata
 spiritroot_2024
+generateMetadata/run_*
 
 *.root
+*.png
+toss*
+watch*
+info_run
+core-root*
 list_run*.txt
